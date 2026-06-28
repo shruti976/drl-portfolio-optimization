@@ -1,0 +1,5 @@
+,total_return,ann_return,ann_vol,sharpe,max_drawdown
+DRL (PPO),0.3374,0.0721,0.157,0.459,-0.2608
+Equal-Weight,0.4145,0.0833,0.1547,0.538,-0.2487
+Mean-Variance,0.2904,0.0633,0.1481,0.428,-0.2926
+Buy&Hold SPY,0.8823,0.1525,0.2116,0.72,-0.3372

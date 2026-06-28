@@ -1,0 +1,30 @@
+{
+  "DRL (PPO)": {
+    "total_return": 0.3374,
+    "ann_return": 0.0721,
+    "ann_vol": 0.157,
+    "sharpe": 0.459,
+    "max_drawdown": -0.2608
+  },
+  "Equal-Weight": {
+    "total_return": 0.4145,
+    "ann_return": 0.0833,
+    "ann_vol": 0.1547,
+    "sharpe": 0.538,
+    "max_drawdown": -0.2487
+  },
+  "Mean-Variance": {
+    "total_return": 0.2904,
+    "ann_return": 0.0633,
+    "ann_vol": 0.1481,
+    "sharpe": 0.428,
+    "max_drawdown": -0.2926
+  },
+  "Buy&Hold SPY": {
+    "total_return": 0.8823,
+    "ann_return": 0.1525,
+    "ann_vol": 0.2116,
+    "sharpe": 0.72,
+    "max_drawdown": -0.3372
+  }
+}
